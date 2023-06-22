@@ -107,7 +107,6 @@
                         </details>
                     </li>
                 </ul>
-                
             </details>
             <details open>
                 <summary>Courses and Programs</summary>
