@@ -54,7 +54,6 @@
                         </details>
                     </li>
                 </ul>
-                
             </details>
             <details open>
                 <summary>Couching and Consulting</summary>
