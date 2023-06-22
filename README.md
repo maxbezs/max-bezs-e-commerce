@@ -160,7 +160,6 @@
                         </details>
                     </li>
                 </ul>
-                
             </details>
         </ul>
     </details>
@@ -302,7 +301,8 @@
                             <summary>Stoic-inspired Accessories</summary>
                             <ul>
                                 <li>
-                                    Stoic Symbol Jewelry                                </li>
+                                    Stoic Symbol Jewelry
+                                </li>
                                 <li>
                                     Inspirational Keychains
                                 </li>
